@@ -1,7 +1,7 @@
 <h1 align="center">Salut|Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **root-me, youtube**
+- 🌱 I’m currently learning ** loading ............
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
